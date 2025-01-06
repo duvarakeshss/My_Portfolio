@@ -66,19 +66,11 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                   <div className="d-major-text text-lg">
                     TCS
                   </div>
-                  <div className="d-major-link text-blue-400">
-                    <a
-                      href="http://"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      title="section under development"
-                    >
-                    </a>
-                  </div>
+                  
                 </div>
                 <div className="d-tenure flex flex-col gap-2 bg-black/70 rounded-lg pt-4 pb-4 text-center pr-12 pl-12">
                   <div className="text-3xl font-medium  text-amber-300">
-                    Tenure:
+                    Year
                   </div>
                   <div className="text-lg">5 Years</div>
                   <div className="text-base">2022-2027</div>
@@ -110,15 +102,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                     Major:
                   </div>
                   <div className="d-major-text text-lg">Science</div>
-                  <div className="d-major-link text-blue-400">
-                    <a
-                      href="http://"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      title="section under development"
-                    >
-                    </a>
-                  </div>
+                  
                 </div>
                 <div className="d-tenure flex flex-col gap-2 bg-black/70 rounded-lg pt-4 pb-4 text-center pr-12 pl-12">
                   <div className="text-3xl font-medium  text-amber-300">
@@ -153,15 +137,6 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                     Major:
                   </div>
                   <div className="d-major-text text-lg">Science</div>
-                  <div className="d-major-link text-blue-400">
-                    <a
-                      href="http://"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      title="section under development"
-                    >
-                    </a>
-                  </div>
                 </div>
                 <div className="d-tenure flex flex-col gap-2 bg-black/70 rounded-lg pt-4 pb-4 text-center pr-12 pl-12">
                   <div className="text-3xl font-medium  text-amber-300">

@@ -77,7 +77,7 @@ const SideBar = () => {
       </div>
       <div class="icon-container flex flex-row items-center justify-start cursor-pointer relative mb-2 hover:w-48">
         <a
-          href="mailto:soumen.sagor@gmail.com"
+          href="mailto:duvarakesh05@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >

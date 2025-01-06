@@ -13,11 +13,16 @@ const Projects = () => {
     setIsHovered(false);
   };
   return (
+    <>
+
     <div
       id="projects"
       className="AboutBody grid grid-cols-2 gap-8 py-12 px-20 h-screen w-full
 relative bg-cover bg-no-repeat bg-fixed text-black"
     >
+          <div className="skills-body-title text-3xl font-extrabold absolute right-10 top-1c:\Users\Duvar\Downloads\duvarakesh-removebg-preview.png font-mono  text-amber-400">
+      Projects
+      </div>
      <div className=" bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-amber-400 cursor-pointer">
         <div>
         <h3>
@@ -45,7 +50,7 @@ relative bg-cover bg-no-repeat bg-fixed text-black"
       <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-amber-400 cursor-pointer">
       <div>
         <h3>
-        Music Server
+        MUSIC SERVER
         </h3>
         <br />
         <p>
@@ -56,7 +61,7 @@ relative bg-cover bg-no-repeat bg-fixed text-black"
       <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-amber-400 cursor-pointer">
       <div>
         <h3>
-        Vehicle Booking System
+        VECHILE BOOKING SYSTEM
         </h3>
         <br />
         <p>
@@ -65,6 +70,7 @@ relative bg-cover bg-no-repeat bg-fixed text-black"
         </div>
       </div>
     </div>
+    </>
   );
 };
 

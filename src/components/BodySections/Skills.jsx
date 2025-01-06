@@ -17,8 +17,8 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             Web Technologies
           </span>
           <ul className="flex flex-col gap-1 font-semibold text-base text-lime-50 text-center">
-            <li>HTML5</li>
-            <li>CSS3</li>
+            <li>HTML</li>
+            <li>CSS</li>
             <li>JavaScript</li>
             <li>React</li>
             <li>TailWindCSS</li>
@@ -31,7 +31,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
           </span>
           <ul className="flex flex-col gap-1 font-semibold text-base text-lime-50 text-center">
             <li>Git, Github</li>
-            <li>Vite.js</li>
+            <li>Vite</li>
             <li>Bash</li>
           </ul>
         </div>

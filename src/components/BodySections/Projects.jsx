@@ -14,7 +14,6 @@ const Projects = () => {
   };
   return (
     <>
-
     <div
       id="projects"
       className="AboutBody grid grid-cols-2 gap-8 py-12 px-20 h-screen w-full

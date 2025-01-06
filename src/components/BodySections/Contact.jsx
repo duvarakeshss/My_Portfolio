@@ -97,7 +97,8 @@ relative bg-cover bg-no-repeat text-white"
               </button>
               <span>or</span>
               <a
-                href="mailto:duvarakesh05@gmail.com"
+                href="mailto:duvarakesh05
+                @gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded bg-green-600 font-semibold flex gap-1 items-center hover:bg-amber-400 hover:text-black"
